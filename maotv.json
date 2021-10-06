@@ -1,5 +1,4 @@
 { 
-  "spider": "https://cdn.jsdelivr.net/gh/wsl1988/CatVodTVSpider@master/jar/custom_spider.jar"
   "sites": [
 {
   "key": "csp_Aidi",
